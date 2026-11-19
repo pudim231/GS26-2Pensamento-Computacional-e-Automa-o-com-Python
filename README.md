@@ -23,3 +23,59 @@
    git clone (https://github.com/pudim231/GS26-2Pensamento-Computacional-e-Automa-o-com-Python.git)
    cd citizen-assist-ai
    ou iniciar uma simulação pelo play
+
+##Regra de Pontuação Usada
+A busca normaliza a pergunta, as palavras-chave e os títulos (letras minúsculas, sem acentos e sem pontuação) e pontua cada orientação:
+
++3 pontos: para cada palavra_chave da orientação encontrada na pergunta.
+
++1 ponto: para cada palavra da pergunta (com 4 ou mais letras) presente no titulo da orientação.
+
+Níveis de Confiança:
+
+ALTA: 6 pontos ou mais.
+
+MÉDIA: 3 a 5 pontos.
+
+Não encontrada: abaixo de 3 pontos (exibe dicas de palavras-chave e lista de categorias).
+
+##Fontes Consultadas
+Portal Gov.br — Carteira de Identidade Nacional: https://www.gov.br/governodigital/pt-br/identidade
+
+Tribunal Superior Eleitoral (TSE): https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral
+
+Exército Brasileiro — Alistamento Online: https://alistamento.eb.mil.br
+
+Receita Federal — Meu CPF: https://www.gov.br/receitafederal/pt-br/assuntos/meu-cpf
+
+Ministério do Trabalho e Emprego — CTPS Digital e Aprendizagem: https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho
+
+Ministério do Desenvolvimento Social — CadÚnico: https://www.gov.br/mds/pt-br/acoes-e-programas/cadastro-unico
+
+Ministério da Saúde — Cartão SUS: https://www.gov.br/saude/pt-br/acesso-a-informacao/acoes-e-programas/cns
+
+Secretaria-Geral da Presidência — ID Jovem: https://www.gov.br/secretariageral/pt-br/assuntos/juventude/id-jovem
+
+##Resultado do Teste com Usuários
+(Realizado com 3 pessoas externas, totalizando 10 atendimentos, sem coleta de dados pessoais)
+
+Total de atendimentos: 10
+
+Resposta encontrada (%): [Ex: 90.0%]
+
+Tempo médio para encontrar: [Ex: 6.4 s]
+
+Facilidade de uso (1 a 5): [Ex: 5 / 5]
+
+Taxa de acerto — ajudou (%): [Ex: 90.0%]
+
+Tentativas por atendimento: [Ex: 1.10]
+
+Dúvidas sem solução observadas: [Ex: "como tirar carteira de reservista" antes do ajuste]
+
+Melhoria implementada após os testes: Inclusão da palavra-chave "reservista" e "cam" na orientação ID 3 (Alistamento Militar), fazendo com que a dúvida passasse a ser encontrada com confiança média/alta.
+
+##Limitações
+O assistente depende exclusivamente de correspondência lexical por regras (não interpreta sinônimos fora das palavras-chave cadastradas nem erros graves de digitação).
+
+Não realiza agendamentos nem consultas em tempo real aos sistemas governamentais.
