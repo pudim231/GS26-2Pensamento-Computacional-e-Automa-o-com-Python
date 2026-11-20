@@ -1,0 +1,42 @@
+[
+  {
+    "data": "2026-11-19 21:38:36",
+    "origem": "pergunta",
+    "pergunta": "como fazer meu cartão sus",
+    "id_orientacao": 9,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 52.3
+  },
+  {
+    "data": "2026-11-19 21:39:11",
+    "origem": "pergunta",
+    "pergunta": "como tirar o passaporte internacional",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 18.3
+  },
+  {
+    "data": "2026-11-19 21:39:32",
+    "origem": "categoria",
+    "pergunta": "[Categoria: Documentação Civil] Tirar o Título de Eleitor pela primeira vez (Alistamento Eleitoral)",
+    "id_orientacao": 2,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 10.9
+  },
+  {
+    "data": "2026-11-19 21:40:33",
+    "origem": "pergunta",
+    "pergunta": "passagem interestadual",
+    "id_orientacao": 10,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 16.7
+  }
+]

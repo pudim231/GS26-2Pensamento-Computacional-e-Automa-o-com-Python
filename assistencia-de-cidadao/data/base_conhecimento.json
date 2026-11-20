@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentação Civil",
+    "titulo": "Emitir a Carteira de Identidade Nacional (CIN / Novo RG)",
+    "palavras_chave": ["rg", "identidade", "cin", "carteira de identidade", "primeira via"],
+    "resposta": "A primeira via da Carteira de Identidade Nacional (CIN) é gratuita em todo o Brasil e utiliza o CPF como número único. Agende o atendimento no órgão emissor do seu estado (como o Poupatempo em SP) e compareça com a certidão original.",
+    "documentos": ["Certidão de Nascimento ou de Casamento (original ou autenticada)", "CPF regularizado"],
+    "onde": "Postos de atendimento estadual (ex: Poupatempo, Vapt Vupt) ou agendamento pelo portal Gov.br",
+    "fonte": "https://www.gov.br/governodigital/pt-br/identidade",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentação Civil",
+    "titulo": "Tirar o Título de Eleitor pela primeira vez (Alistamento Eleitoral)",
+    "palavras_chave": ["titulo de eleitor", "titulo eleitoral", "votar", "alistamento", "tse"],
+    "resposta": "Jovens a partir de 15 anos já podem solicitar o primeiro título (o voto é obrigatório aos 18). O pedido pode ser feito totalmente pela internet pelo sistema Título Net, sem precisar ir ao cartório, caso não haja pendência biométrica.",
+    "documentos": ["Documento oficial de identificação com foto", "Comprovante de residência recente", "Certificado de quitação militar (para homens no ano em que completam 19 anos)"],
+    "onde": "Site oficial do TSE (Autoatendimento Eleitoral) ou Cartório Eleitoral",
+    "fonte": "https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 3,
+    "categoria": "Documentação Civil",
+    "titulo": "Fazer o Alistamento Militar Obrigatório",
+    "palavras_chave": ["alistamento militar", "exercito", "reservista", "cam", "junta militar"],
+    "resposta": "Todo jovem do sexo masculino deve se alistar nos primeiros seis meses do ano em que completa 18 anos. O processo começa online e depois exige acompanhamento para saber se haverá dispensa ou seleção.",
+    "documentos": ["CPF", "Certidão de Nascimento ou RG", "Comprovante de residência", "E-mail e telefone ativos para contato"],
+    "onde": "Site Alistamento Online ou Junta de Serviço Militar mais próxima",
+    "fonte": "https://alistamento.eb.mil.br",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 4,
+    "categoria": "Documentação Civil",
+    "titulo": "Emitir ou regularizar o CPF (Cadastro de Pessoas Físicas)",
+    "palavras_chave": ["cpf", "cadastro de pessoa fisica", "receita federal", "comprovante cpf", "regularizar cpf"],
+    "resposta": "A inscrição e a emissão do comprovante do CPF são gratuitas pela internet. Caso haja divergência de dados cadastrais, a regularização pode ser concluída online ou em agências conveniadas.",
+    "documentos": ["Documento de identificação com foto", "Certidão de Nascimento ou Casamento", "Título de Eleitor (para maiores de 18 anos)"],
+    "onde": "Portal da Receita Federal (Gov.br), Banco do Brasil, Caixa Econômica ou Correios",
+    "fonte": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-cpf",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 5,
+    "categoria": "Trabalho e Renda",
+    "titulo": "Acessar e emitir a Carteira de Trabalho Digital (CTPS)",
+    "palavras_chave": ["carteira de trabalho", "ctps", "ctps digital", "primeiro emprego", "registro clt"],
+    "resposta": "A Carteira de Trabalho física não é mais emitida para trabalhadores urbanos. Basta criar uma conta Gov.br e baixar o aplicativo Carteira de Trabalho Digital; ao ser contratado, o número do seu CPF já vale como número da carteira.",
+    "documentos": ["CPF", "Conta cadastrada no portal Gov.br"],
+    "onde": "Aplicativo Carteira de Trabalho Digital (Android/iOS) ou portal Emprega Brasil",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 6,
+    "categoria": "Trabalho e Renda",
+    "titulo": "Inscrever-se no Programa Jovem Aprendiz",
+    "palavras_chave": ["jovem aprendiz", "aprendiz", "menor aprendiz", "vaga aprendiz", "lei da aprendizagem"],
+    "resposta": "Jovens entre 14 e 24 anos incompletos que estejam cursando ou tenham concluído o ensino médio podem concorrer a vagas de aprendizagem com carteira assinada, jornada reduzida e curso de capacitação.",
+    "documentos": ["RG e CPF", "Carteira de Trabalho Digital", "Declaração de matrícula ou histórico escolar"],
+    "onde": "Portal Emprega Brasil, CIEE, Senai, Senac ou portais de RH das empresas",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/aprendizagem-profissional",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 7,
+    "categoria": "Trabalho e Renda",
+    "titulo": "Consultar e sacar o Seguro-Desemprego",
+    "palavras_chave": ["seguro desemprego", "demissao", "parcelas seguro", "requerimento seguro", "desempregado"],
+    "resposta": "Trabalhadores dispensados sem justa causa que cumpram o tempo mínimo de registro podem solicitar o benefício entre o 7º e o 120º dia após a demissão diretamente pelo aplicativo.",
+    "documentos": ["Requerimento do Seguro-Desemprego (fornecido pelo empregador)", "CPF", "Termo de Rescisão do Contrato de Trabalho (TRCT)"],
+    "onde": "Aplicativo Carteira de Trabalho Digital ou portal Gov.br",
+    "fonte": "https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 8,
+    "categoria": "Educação e Benefícios",
+    "titulo": "Inscrever-se no Cadastro Único (CadÚnico)",
+    "palavras_chave": ["cadunico", "cadastro unico", "baixa renda", "nis", "isencao enem"],
+    "resposta": "O CadÚnico dá acesso a programas sociais e isenção de taxas em concursos e vestibulares (como o ENEM) para famílias com renda mensal de até meio salário mínimo por pessoa. O responsável familiar deve ir presencialmente ao CRAS.",
+    "documentos": ["CPF ou Título de Eleitor do responsável familiar", "Documento com foto e certidão de todos os moradores da casa", "Comprovante de residência"],
+    "onde": "CRAS (Centro de Referência de Assistência Social) do seu município",
+    "fonte": "https://www.gov.br/mds/pt-br/acoes-e-programas/cadastro-unico",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 9,
+    "categoria": "Educação e Benefícios",
+    "titulo": "Fazer o Cartão Nacional de Saúde (Cartão SUS)",
+    "palavras_chave": ["cartao sus", "cartao do sus", "sus", "cns", "saude"],
+    "resposta": "O Cartão SUS é gratuito e permite atendimento e acompanhamento de vacinas na rede pública. Você pode visualizar e imprimir seu número pelo aplicativo ou solicitar em qualquer posto de saúde.",
+    "documentos": ["Documento de identificação com foto", "CPF", "Comprovante de residência"],
+    "onde": "Qualquer UBS (Unidade Básica de Saúde) ou aplicativo Meu SUS Digital",
+    "fonte": "https://www.gov.br/saude/pt-br/acesso-a-informacao/acoes-e-programas/cns",
+    "verificado_em": "2026-11-10"
+  },
+  {
+    "id": 10,
+    "categoria": "Educação e Benefícios",
+    "titulo": "Solicitar ID Jovem (Meia-entrada e Viagens Interestaduais)",
+    "palavras_chave": ["id jovem", "meia entrada", "viagem gratuita", "onibus interestadual", "identidade jovem", "passagem interestadual"],
+    "resposta": "Jovens de 15 a 29 anos inscritos no CadÚnico com renda familiar de até dois salários mínimos têm direito a meia-entrada em eventos culturais e passagens interestaduais gratuitas ou com 50% de desconto.",
+    "documentos": ["Número de Identificação Social (NIS) ativo no CadÚnico", "CPF", "Documento oficial com foto no momento do embarque ou evento"],
+    "onde": "Aplicativo ID Jovem ou site oficial do Governo Federal",
+    "fonte": "https://www.gov.br/secretariageral/pt-br/assuntos/juventude/id-jovem",
+    "verificado_em": "2026-11-10"
+  }
+]
